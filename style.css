@@ -1,0 +1,24 @@
+:root{
+    /* Colores */
+    --color_bg: #1b1b1b;
+    --rojo_oscuro: #941635;
+    --rojo_claro: #a71644;
+    --color_blanco: #ffffff;
+    --azul_oscuro: #001986;
+    --azul_claro: #0079ea;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%
+}
+
+body{
+    font-size: 1.6rem;
+    background-color: var(--color_bg);
+}
